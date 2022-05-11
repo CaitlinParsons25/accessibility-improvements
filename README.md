@@ -8,7 +8,7 @@
 
 
 ### 1. Improve the accessibility of the webpage through utilization of semantic HTML elements and appropriate alt descriptions for certain images
-The original index.html file code had many 'code(<div>)' elements where a more specfific HTML semantic element could make the webpage more accessible and readable. 
+The original index.html file code had many `code(<div>)` elements where a more specfific HTML semantic element could make the webpage more accessible and readable. 
 
 For example, the header element was written as <div class="header"> rather than <header>; so I changed it to <header> and made the corresponding change in the CSS style sheet (".header" to "header"). 
 
