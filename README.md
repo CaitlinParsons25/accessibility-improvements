@@ -2,7 +2,7 @@
 
 
 ## Aims of the project
-1. Improve the accessibility of the webpage through utilization of semantic HTML elements and appropriate alt descriptions for certain images
+[1. Improve the accessibility of the webpage through utilization of semantic HTML elements and appropriate alt descriptions for certain images] (#1. Improve the accessibility of the webpage through utilization of semantic HTML elements and appropriate alt descriptions for certain images) 1. Improve the accessibility of the webpage through utilization of semantic HTML elements and appropriate alt descriptions for certain images<a name=1. Improve the accessibility of the webpage through utilization of semantic HTML elements and appropriate alt descriptions for certain images></a>
 2. Consolidate the CSS style sheet by eliminating duplicate code
 3. Organize both the index.html file and the style.css file according to the visual flow of the webpage and for better readability for future developers
 
