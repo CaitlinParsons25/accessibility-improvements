@@ -1,6 +1,8 @@
 # Accessibility improvements and style sheet consolidation
 
 
+https://caitlinparsons25.github.io/accessibility-improvements/
+
 ## Aims of the project
 1. Improve the accessibility of the webpage through utilization of semantic HTML elements and appropriate alt descriptions for certain images
 2. Consolidate the CSS style sheet by eliminating duplicate code
